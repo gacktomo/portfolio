@@ -319,4 +319,6 @@ var demo = (function (window) {
 })(window);
 
 // Kickstart Demo.
-window.onload = demo.init;
+window.addEventListener('DOMContentLoaded', function() {
+  demo.init();
+})
