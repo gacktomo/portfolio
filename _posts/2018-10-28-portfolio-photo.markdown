@@ -34,12 +34,15 @@ date:   2018-10-28 00:12:12
 <div class="video">
 <iframe src="https://www.youtube.com/embed/RwgXXNW90c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 <div class="video">
 <iframe src="https://www.youtube.com/embed/xQtb1UNKkfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 <div class="video">
 <iframe src="https://www.youtube.com/embed/02tqHmQDRWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 <div class="video">
 <iframe src="https://www.youtube.com/embed/vdcyjbgvU1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
