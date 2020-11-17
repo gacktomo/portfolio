@@ -23,6 +23,34 @@ date:   2018-10-29 00:12:12
 
 <p style="display:none;"></p>
 
+## SUMUU
+<a href="https://sumuu.gacktomo.com" target="_blank"> <image src="img/sumuu.png" class="article-image" ></image> </a>
+
+関東で震災リスクの低い街へ引っ越したい思いから作成したサービス。通勤経路も加味して自分にあった街が見つかる。
+
+<a href="https://sumuu.gacktomo.com" target="_blank">アクセスはこちら</a>
+<br>
+<br>
+
+## Hashtag Optimizer
+<a href="https://hashtag-optimizer.gacktomo.com/" target="_blank"> <image src="img/hashtag.png" class="article-image" ></image> </a>
+
+インスタで投稿をより多くの人に見てもらうためのマーケツール。関連するハッシュタグをリコメンドする。
+
+<a href="https://hashtag-optimizer.gacktomo.com/" target="_blank">アクセスはこちら</a>
+<br>
+<br>
+
+## BuzzMap
+<a href="https://buzzmap.tokyo" target="_blank"> <image src="img/buzzmap.png" class="article-image" ></image> </a>
+
+インスタの特定アカウントの投稿をマップ上に一覧表示できるサービス。
+
+<a href="https://buzzmap.tokyo" target="_blank">アクセスはこちら</a>
+<br>
+<br>
+
+
 ## SlowTube
 <a href="https://slow-tube.com" target="_blank"> <image src="img/slow.png" class="article-image" ></image> </a>
 
