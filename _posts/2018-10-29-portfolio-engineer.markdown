@@ -1,11 +1,12 @@
 ---
-title:  "ポートフォリオ"
+title: "ポートフォリオ"
 subtitle: "エンジニア"
 author: "Tomohiro Matsuo"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2018-10-29 00:12:12
+date: 2018-10-29 00:12:12
 ---
+
 <style>
 .video{
   position:relative;
@@ -19,87 +20,101 @@ date:   2018-10-29 00:12:12
   width:100%;
   height:100%;
 }
+
+.itemContainer {
+  display: flex;
+  margin-bottom: 3.5rem;
+  font-size: 16px;
+}
+.itemThumbnail {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+.itemThumbnail > img {
+  max-width: initial;
+  width: 100px;
+}
 </style>
 
-<p style="display:none;"></p>
-
-## SUMUU
-<a href="https://sumuu.gacktomo.com" target="_blank"> <image src="img/sumuu.png" class="article-image" ></image> </a>
-
-関東で震災リスクの低い街へ引っ越したい思いから作成したサービス。通勤経路も加味して自分にあった街が見つかる。
-
-<a href="https://sumuu.gacktomo.com" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-## Hashtag Optimizer
-<a href="https://hashtag-optimizer.gacktomo.com/" target="_blank"> <image src="img/hashtag.png" class="article-image" ></image> </a>
-
-インスタで投稿をより多くの人に見てもらうためのマーケツール。関連するハッシュタグをリコメンドする。
-
-<a href="https://hashtag-optimizer.gacktomo.com/" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-## BuzzMap
-<a href="https://buzzmap.tokyo" target="_blank"> <image src="img/buzzmap.png" class="article-image" ></image> </a>
-
-インスタの特定アカウントの投稿をマップ上に一覧表示できるサービス。
-
-<a href="https://buzzmap.tokyo" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-
-## SlowTube
-<a href="https://slow-tube.com" target="_blank"> <image src="img/slow.png" class="article-image" ></image> </a>
-
-通信制限でもYoutubeを見たいという思いから作成したWebサービス。サーバ上で一度動画を取得した後、超低画質エンコードすることでストリーミングを実現。  
-
-<a href="https://slow-tube.com" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-## スマートロック
-<div class="video">
-<iframe src="https://www.youtube.com/embed/-EwjqVQ5Tf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-RaspberryPiとサーボモータを組み合わせて自宅のドア鍵の制御をできるようにした。登録されたNFCタグをリーダーにかざすことで鍵の開閉が可能。
-
-<a href="https://kadai-info.com/2018/04/20/interview-matsuo/">詳しいインタビュー記事はこちら</a>
-<br>
-<br>
-
-## アプリ開発サークルHP
-<a href="https://www.k-appdev.com" target="_blank"> <image src="img/kappdev.png" class="article-image" ></image> </a>
-自分が立ち上げたサークルのHPを作成。  
-インスタグラムのストーリーのような立体的な動きを取り入れた。  
-<br>
-<a href="https://www.k-appdev.com/" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-## ココカラカイギHP
-<a href="https://kokokarakaigi.com" target="_blank"> <image src="img/kokokara.png" class="article-image" ></image> </a>
-<br>
-学生団体によるイベント「ココカラカイギ」のHP作成を担当。
-<br>
-<a href="https://kokokarakaigi.com/" target="_blank">アクセスはこちら</a>
-<br>
-<br>
-
-## コスモガールノーツ
-<div class="video">
-<iframe src="https://www.youtube.com/embed/yMG-PuacEYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-株式会社freepのインターン時に開発したスマートフォン向けリズムゲーム。設計・開発を担当し、アプリ側・サーバ側の実装を行った。  
-  
-<a href="https://play.google.com/store/apps/details?id=jp.co.freep.cgn" target="_blank">DLはこちら</a>
-
-<br>
-## 音声 ✕ 家電操作
-<div class="video">
-<iframe src="https://www.youtube.com/embed/h9l2BENMTQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>Utao</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://utao.app" target="_blank"> <image src="img/utao.png" class="article-image" ></image> </a>
+  <div>
+    カラオケで歌える曲が少ないので自分の音域に合った曲を簡単に探せるサービスを開発した。
+    <a href="https://utao.app" target="_blank">アクセスはこちら</a>
+  </div>
 </div>
 
-音声コマンドで家電を操作できたらかっこいいと思い作った。上の動画は「エロス」と発声することで部屋がピンクになり、"エロス"な曲が流れるというネタ動画。
+<h2>Flatoon</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="" target="_blank"> <image src="img/flatoon.png" class="article-image" ></image> </a>
+  <div>
+    スプラトゥーンのような色塗り陣取りスマホゲーム。
+    <a href="https://apps.apple.com/jp/app/flatoon2-%E8%89%B2%E3%81%AC%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB/id1572065177" target="_blank">インストールはこちら</a>
+  </div>
+</div>
+
+<h2>SUMUU</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://sumuu.gacktomo.com" target="_blank"> <image src="img/sumuu.png" class="article-image" ></image> </a>
+  <div>
+    関東で震災リスクの低い街へ引っ越したい思いから作成したサービス。通勤経路も加味して自分にあった街が見つかる。
+    <a href="https://sumuu.gacktomo.com" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>NoCodeCSV</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://nocodecsv.web.app/" target="_blank"> <image src="img/no-image.png" class="article-image" ></image> </a>
+  <div>
+    正規表現マッチや整形などCSVへの操作をGUIで簡易化したツール。
+    <a href="https://nocodecsv.web.app/" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>Hashtag Optimizer</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://hashtag-optimizer.gacktomo.com/" target="_blank"> <image src="img/hashtag.png" class="article-image" ></image> </a>
+  <div>
+    インスタで投稿をより多くの人に見てもらうためのマーケツール。関連するハッシュタグをリコメンドする。
+    <a href="https://hashtag-optimizer.gacktomo.com/" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>BuzzMap</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://buzzmap.tokyo" target="_blank"> <image src="img/buzzmap.png" class="article-image" ></image> </a>
+  <div>
+    インスタの特定アカウントの投稿をマップ上に一覧表示できるサービス。
+    <a href="https://buzzmap.tokyo" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>SlowTube</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://slow-tube.com" target="_blank"> <image src="img/slow.png" class="article-image" ></image> </a>
+  <div>
+    通信制限でも Youtube を見たいという思いから作成した Web サービス。サーバ上で一度動画を取得した後、超低画質エンコードすることでストリーミングを実現。
+    <a href="https://slow-tube.com" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>アプリ開発サークルHP</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://www.k-appdev.com" target="_blank"> <image src="img/kappdev.png" class="article-image" ></image> </a>
+  <div>
+    自分が立ち上げたサークルの HP を作成。  
+    インスタグラムのストーリーのような立体的な動きを取り入れた。  
+    <a href="https://www.k-appdev.com/" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
+
+<h2>ココカラカイギ HP</h2>
+<div class="itemContainer">
+  <a class="itemThumbnail" href="https://kokokarakaigi.com" target="_blank"> <image src="img/kokokara.png" class="article-image" ></image> </a>
+  <div>
+    学生団体によるイベント「ココカラカイギ」の HP 作成を担当。
+    <a href="https://kokokarakaigi.com/" target="_blank">アクセスはこちら</a>
+  </div>
+</div>
