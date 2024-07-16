@@ -42,7 +42,7 @@ date: 2018-10-29 00:12:12
   <a class="itemThumbnail" href="https://utao.app" target="_blank"> <image src="img/utao.png" class="article-image" ></image> </a>
   <div>
     カラオケで歌える曲が少ないので自分の音域に合った曲を簡単に探せるサービスを開発した。
-    <a href="https://utao.app" target="_blank">アクセスはこちら</a>
+    <a href="https://utaco.app" target="_blank">アクセスはこちら</a>
   </div>
 </div>
 
@@ -64,30 +64,12 @@ date: 2018-10-29 00:12:12
   </div>
 </div>
 
-<h2>NoCodeCSV</h2>
-<div class="itemContainer">
-  <a class="itemThumbnail" href="https://nocodecsv.web.app/" target="_blank"> <image src="img/no-image.png" class="article-image" ></image> </a>
-  <div>
-    正規表現マッチや整形などCSVへの操作をGUIで簡易化したツール。
-    <a href="https://nocodecsv.web.app/" target="_blank">アクセスはこちら</a>
-  </div>
-</div>
-
 <h2>Hashtag Optimizer</h2>
 <div class="itemContainer">
   <a class="itemThumbnail" href="https://hashtag-optimizer.gacktomo.com/" target="_blank"> <image src="img/hashtag.png" class="article-image" ></image> </a>
   <div>
     インスタで投稿をより多くの人に見てもらうためのマーケツール。関連するハッシュタグをリコメンドする。
     <a href="https://hashtag-optimizer.gacktomo.com/" target="_blank">アクセスはこちら</a>
-  </div>
-</div>
-
-<h2>BuzzMap</h2>
-<div class="itemContainer">
-  <a class="itemThumbnail" href="https://buzzmap.tokyo" target="_blank"> <image src="img/buzzmap.png" class="article-image" ></image> </a>
-  <div>
-    インスタの特定アカウントの投稿をマップ上に一覧表示できるサービス。
-    <a href="https://buzzmap.tokyo" target="_blank">アクセスはこちら</a>
   </div>
 </div>
 
