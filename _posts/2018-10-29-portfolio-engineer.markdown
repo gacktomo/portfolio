@@ -35,11 +35,21 @@ date: 2018-10-29 00:12:12
   max-width: initial;
   width: 100px;
 }
+.itemThumbnail--ended > img {
+  filter: grayscale(100%);
+  opacity: .55;
+}
+.itemEnded {
+  display: inline-block;
+  margin-top: .3rem;
+  color: #999;
+  font-size: .85em;
+}
 </style>
 
-<h2>Utao</h2>
+<h2>Utaco</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="https://utao.app" target="_blank"> <image src="img/utao.png" class="article-image" ></image> </a>
+  <a class="itemThumbnail" href="https://utaco.app" target="_blank"> <image src="img/utao.png" class="article-image" ></image> </a>
   <div>
     カラオケで歌える曲が少ないので自分の音域に合った曲を簡単に探せるサービスを開発した。
     <a href="https://utaco.app" target="_blank">アクセスはこちら</a>
@@ -48,19 +58,19 @@ date: 2018-10-29 00:12:12
 
 <h2>Flatoon</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="" target="_blank"> <image src="img/flatoon.png" class="article-image" ></image> </a>
+  <span class="itemThumbnail itemThumbnail--ended"> <image src="img/flatoon.png" class="article-image" ></image> </span>
   <div>
     スプラトゥーンのような色塗り陣取りスマホゲーム。
-    <a href="https://apps.apple.com/jp/app/flatoon2-%E8%89%B2%E3%81%AC%E3%82%8A%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB/id1572065177" target="_blank">インストールはこちら</a>
+    <span class="itemEnded">※ サービス終了</span>
   </div>
 </div>
 
 <h2>SUMUU</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="https://sumuu.gacktomo.com" target="_blank"> <image src="img/sumuu.png" class="article-image" ></image> </a>
+  <span class="itemThumbnail itemThumbnail--ended"> <image src="img/sumuu.png" class="article-image" ></image> </span>
   <div>
     関東で震災リスクの低い街へ引っ越したい思いから作成したサービス。通勤経路も加味して自分にあった街が見つかる。
-    <a href="https://sumuu.gacktomo.com" target="_blank">アクセスはこちら</a>
+    <span class="itemEnded">※ サービス終了</span>
   </div>
 </div>
 
@@ -75,28 +85,28 @@ date: 2018-10-29 00:12:12
 
 <h2>SlowTube</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="https://slow-tube.com" target="_blank"> <image src="img/slow.png" class="article-image" ></image> </a>
+  <span class="itemThumbnail itemThumbnail--ended"> <image src="img/slow.png" class="article-image" ></image> </span>
   <div>
     通信制限でも Youtube を見たいという思いから作成した Web サービス。サーバ上で一度動画を取得した後、超低画質エンコードすることでストリーミングを実現。
-    <a href="https://slow-tube.com" target="_blank">アクセスはこちら</a>
+    <span class="itemEnded">※ サービス終了</span>
   </div>
 </div>
 
 <h2>アプリ開発サークルHP</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="https://www.k-appdev.com" target="_blank"> <image src="img/kappdev.png" class="article-image" ></image> </a>
+  <span class="itemThumbnail itemThumbnail--ended"> <image src="img/kappdev.png" class="article-image" ></image> </span>
   <div>
     自分が立ち上げたサークルの HP を作成。  
     インスタグラムのストーリーのような立体的な動きを取り入れた。  
-    <a href="https://www.k-appdev.com/" target="_blank">アクセスはこちら</a>
+    <span class="itemEnded">※ 公開終了</span>
   </div>
 </div>
 
 <h2>ココカラカイギ HP</h2>
 <div class="itemContainer">
-  <a class="itemThumbnail" href="https://kokokarakaigi.com" target="_blank"> <image src="img/kokokara.png" class="article-image" ></image> </a>
+  <span class="itemThumbnail itemThumbnail--ended"> <image src="img/kokokara.png" class="article-image" ></image> </span>
   <div>
     学生団体によるイベント「ココカラカイギ」の HP 作成を担当。
-    <a href="https://kokokarakaigi.com/" target="_blank">アクセスはこちら</a>
+    <span class="itemEnded">※ 公開終了</span>
   </div>
 </div>
